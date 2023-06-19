@@ -1,10 +1,10 @@
 <script setup>
-import TheWelcome from '../components/Inicio.vue'
+import personas from '../components/Personas.vue'
 </script>
 
 <template>
-  <main class="fondo">
-    <TheWelcome />
+  <main class="fondo2">
+    <personas/>
   </main>
 </template>
 
@@ -16,7 +16,7 @@ import TheWelcome from '../components/Inicio.vue'
     align-items: center;
   }
 }
-.fondo
+.fondo2
 {
   background-color:#fff7ed;
   width: 100%;

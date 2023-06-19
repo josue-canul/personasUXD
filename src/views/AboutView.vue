@@ -1,9 +1,15 @@
 <script setup>
-import Formulario from '../components/Formulario.vue'
+import inicio from '../components/forms.vue'
 </script>
 
 <template>
-    <main>
-      <Formulario />
-    </main>
-  </template>
+  <main>
+    <inicio/>
+  </main>
+</template>
+
+<style>
+
+
+</style>
+ 
